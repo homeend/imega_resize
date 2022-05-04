@@ -1,0 +1,11 @@
+.idea
+venv/
+venv38/
+..gitignore.un~
+.*~
+*~
+__pycache__/
+upload/
+app.tar
+tmp/
+.venv/
